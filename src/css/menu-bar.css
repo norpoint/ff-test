@@ -1,0 +1,13 @@
+.menu-text {
+    color: white;
+    text-transform: uppercase;
+
+}
+
+.top-bar {
+    background-color: #2c3840;
+}
+
+.top-bar ul {
+    background-color: transparent;
+}

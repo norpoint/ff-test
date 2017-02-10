@@ -1,0 +1,14 @@
+.form-body h5 {
+    margin-bottom: 1.5rem;
+}
+
+.form-callout {
+    border-width: 0 0 0 1px;
+    padding-left: 2rem;
+    padding-top: 0;
+    background-color: transparent;
+}
+
+.form-footer {
+    margin-top: 1rem;
+}
